@@ -1,1 +1,1 @@
-# clase_06
+# Earthquakes Data Visualization
